@@ -3488,6 +3488,7 @@ var cnames_active = {
   "useworker": "useworker.netlify.app",
   "ushakov": "ushakov-igor.github.io/ushakov",
   "ushio": "ushio.netlify.app",
+  "ustafind": "ferhad24.github.io/UstaFind.github.io",
   "usv": "usvformat.github.io",
   "utc": "pythonscratcher.github.io/utc",
   "utilify": "pattuzzoj.github.io/utilify",
